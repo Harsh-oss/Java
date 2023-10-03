@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class ObjectStream {
-    //Copying Object into file
+    //Copying Object into file with input and output stream
     static void copyingObject() throws Exception{
         ClassA aobj = new ClassA();
         ClassB bobj = new ClassB();
