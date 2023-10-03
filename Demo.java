@@ -66,6 +66,7 @@ class Comp{
         t.add(e3);
         t.add(e4);
         t.add(new Demo("Akshay", 103));
+        t.add(new Demo("Mohit", 103));
         System.out.println(t);
     }
 }
