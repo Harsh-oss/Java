@@ -372,6 +372,8 @@ public class Solution {
     }
 
     public static int numIdenticalPairs(int[] nums) {
+        //Input: nums = [1,2,3,1,1,3]
+// Output: 4
         int count = 0;
         for (int i = 0; i < nums.length; i++) {
             for (int j = 1; j < nums.length; j++) {
@@ -381,6 +383,7 @@ public class Solution {
             }
         }
         return count;
+        
     }
 
     public static void main(String[] args) {
