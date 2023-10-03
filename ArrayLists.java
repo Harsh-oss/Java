@@ -14,6 +14,7 @@ public class ArrayLists {
         al.add(5);
         al.add(78);
         al.add(98);
+        al.add(100);
 //        System.out.println(al);
 //
 //        System.out.println(al.size());
