@@ -22,6 +22,6 @@ public class ObjectStream {
     }
 
     public static void main(String[] args) throws Exception {
-        copyingObject();
+        new ObjectStream().copyingObject();
     }
 }
