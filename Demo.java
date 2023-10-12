@@ -28,7 +28,7 @@ import java.util.TreeSet;
 //}
 
 //Customized sorting order
-class Demo{
+public class Demo{
     String name;
     int eid;
     public Demo(String name, int eid){
