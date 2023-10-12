@@ -1,5 +1,5 @@
 import java.util.*;
-
+//this is a ArrayList which implements List and Collection Interface 
 public class ArrayLists {
     static void arrayList() {
         ArrayList<Object> al = new ArrayList<Object>();
@@ -15,7 +15,7 @@ public class ArrayLists {
         al.add(78);
         al.add(98);
         al.add(100);
-//        System.out.println(al);
+       System.out.println(al);
 //
 //        System.out.println(al.size());
 //        System.out.println(al.get(0));
